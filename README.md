@@ -1,1 +1,1 @@
-This is a tets repository for CMPUT 301 Tuesday Lab (Fall 2022)
+this is a test repository for CMPUT 301 Lab Tuesday 
